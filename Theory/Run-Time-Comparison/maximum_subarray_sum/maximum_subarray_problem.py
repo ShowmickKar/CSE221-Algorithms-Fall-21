@@ -1,8 +1,5 @@
 import math
-import time
 import random
-from datetime import datetime
-from matplotlib import pyplot as plt
 
 
 def max_crossing_sum(a, l, h, m):
@@ -61,7 +58,3 @@ def kadens_algorithm(a):
 array_container = [
     [random.randint(-5000, 5000) for j in range(1, i * 100)] for i in range(100)
 ]
-
-
-time_brute_force = []
-time_kadens_algorithm = []
