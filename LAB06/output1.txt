@@ -1,0 +1,2 @@
+Yasnaya Rozhok Farm Mylta Shelter Prison 
+Correctness of prediction: 75.0%

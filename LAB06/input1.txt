@@ -1,0 +1,17 @@
+1 Y Yasnaya
+2 P "Pochinki
+3 S School
+4 R Rozhok
+5 F Farm
+6 M Mylta
+7 H Shelter
+8 I Prison
+
+1 Y Yasnaya
+2 R Rozhok
+3 S School
+4 P Pochinki
+5 F Farm
+6 M Mylta
+7 H Shelter
+8 I Prison
